@@ -1,0 +1,15 @@
+1. Store information to use in our programs
+2. 
+distance = 10
+forward(distance)
+left(90)
+distance = distance * 2
+forward(distance)
+3. 
+square_length = 20
+
+for i in range(4):
+    for i in range(4):
+        forward(square_length)
+        left(90)
+    square_length = square_length * 2
