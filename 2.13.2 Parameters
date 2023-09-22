@@ -1,0 +1,8 @@
+1. They allow us to tailor functions to be used in multiple situations
+2. As many as we need
+3. 
+def make_square(length):
+    for i in range(4):
+        forward(length)
+        left(90)
+make_square(50)
