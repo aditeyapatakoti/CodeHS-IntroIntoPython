@@ -1,0 +1,7 @@
+1. To have Tracy make decisions based on conditional statements
+2. Tracy skips the commands under the if statement
+3. 
+if count > 0:
+  pendown()
+4. !=
+5. 100 pixels
