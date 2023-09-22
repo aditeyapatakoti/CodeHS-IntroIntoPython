@@ -1,0 +1,6 @@
+1.
+if b:
+    print("b is True!")
+2. 
+if False:
+    print("hi")
