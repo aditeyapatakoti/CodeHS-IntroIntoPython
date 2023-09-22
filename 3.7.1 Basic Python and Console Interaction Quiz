@@ -1,0 +1,24 @@
+1. 19
+2. 9.5
+3. print(name + ": " + num)
+4. ans = “hi” + 9
+5. <type 'str'>
+6. str
+7. 
+language = "Python"
+print("I'm learning " + language)
+8. Numbers that can have decimal components
+9. 
+      3
+      4.4
+10. num = int(input(“Enter a number: “))
+11. 8
+12. #
+13. A binary operator needs two things, while a unary operator only needs one.
+14. Line 2
+15. A, C, D, B
+16. FlorenceFernandez
+17. I, II, IV
+18. user_age
+19. number
+20. pi = 3.14
