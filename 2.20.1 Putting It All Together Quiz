@@ -1,0 +1,64 @@
+1. 50 spaces
+2. As many times as you want
+3. You want Tracy to draw a blue line, and your program requires lots of blue lines.
+4. 
+forward(30)
+color("blue")
+left(180)
+
+forward(30)
+color("green")
+left(180)
+
+forward(30)
+color("orange")
+left(180)
+5.
+# Has Tracy draw a single triangle
+def make_triangle():
+6. turn
+7. Indentation always matters in Python. Every statement must be aligned correctly.
+8. A, C, and F
+9. 
+def draw_edge():
+    forward(100)
+    left(90)
+10. Functions let you execute code a fixed number of times.
+11. Defining a function means you are teaching the computer a new word. Calling a function means you are commanding the computer to complete defined actions.
+12. How far Tracy is supposed to move
+13. A for loop
+14. right(180)
+15. 
+# Draw a square
+for i in range(4):
+    left(90)
+    forward(90)
+16.
+for i in range(4):
+    circle(50, 360, 4)
+17. A triangle
+18. 
+radius = 50
+circle(radius)
+19. 
+Yes
+radius = int(input("Radius: ")) 
+
+circle(radius)
+20. 
+def draw_circle(color_choice):
+    pendown()
+    color(color_choice)
+    begin_fill()
+    circle(50)
+    end_fill()
+    penup()
+    forward(100)
+draw_circle("red")
+draw_circle("blue")
+draw_circle("yellow")
+21. Two shapes- a triangle (3 sides) and a pentagon (5 sides).
+22. 10, 20, 30, 40, 50
+23. backward(201)
+24. backward(10)
+25. An infinite loop will occur
