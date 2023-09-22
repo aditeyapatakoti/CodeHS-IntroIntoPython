@@ -1,0 +1,10 @@
+1. 
+color(“yellow”)
+pensize(10)
+2. The color name must be in quotation marks
+3. 
+begin_fill()
+circle(20)
+end_fill()
+4. pentagon
+5. half of a hexagon
