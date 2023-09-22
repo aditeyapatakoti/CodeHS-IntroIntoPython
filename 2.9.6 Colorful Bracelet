@@ -1,0 +1,27 @@
+def small_circle():
+    circle(10)
+    left(10)
+    penup()
+    forward(20)
+    pendown()
+
+penup()
+backward (100)
+right(90)
+
+pendown()
+for i in range (12):
+    color("purple")
+    begin_fill()
+    small_circle()
+    end_fill()
+    color("blue")
+    begin_fill()
+    small_circle()
+    end_fill()
+    color("red")
+    begin_fill()
+    small_circle()
+    end_fill()
+penup()
+setposition(0,0)
