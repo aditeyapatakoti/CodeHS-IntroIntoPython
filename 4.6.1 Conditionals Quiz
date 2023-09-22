@@ -1,0 +1,23 @@
+1. Must be blue
+2. round(pi, 2)
+3. Sometimes numbers can be rounded in unexpected ways based on how Python computes them. Therefore, it is best to use round in order to make sure both numbers are rounded the same way.
+4. <type ‘int’>
+5. <type ‘bool’>
+6. 5
+7. Nothing will print
+8. -5
+9. 
+      5
+      8
+10. Almost eligible for Driver’s License
+11. 
+      1
+      4
+      5
+12. 1
+13. You are average height
+14. You are above average height
+15. 
+But green is the color of grass!
+Blue is the best
+But yellow is the color of school buses!
