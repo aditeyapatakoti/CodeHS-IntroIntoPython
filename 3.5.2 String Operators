@@ -1,0 +1,9 @@
+1.
+x = 4
+y = "hi"
+print(x + y)
+2.
+var = "hello"
+print(var)
+print(var)
+print(var)
