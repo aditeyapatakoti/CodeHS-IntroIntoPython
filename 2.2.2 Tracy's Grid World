@@ -1,0 +1,7 @@
+1. At the (0,0) coordinate in the middle of the canvas
+2. 400 pixels x 400 pixels
+3. A and B
+4. 200 pixels
+5.
+penup()
+forward(100)
