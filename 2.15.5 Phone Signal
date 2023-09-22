@@ -1,0 +1,12 @@
+for i in range(10,60,10):
+    pendown()
+    forward(10)
+    left(90)
+    forward(i)
+    left(90)
+    forward(10)
+    left(90)
+    forward(i)
+    penup()
+    left(90)
+    forward(25)
