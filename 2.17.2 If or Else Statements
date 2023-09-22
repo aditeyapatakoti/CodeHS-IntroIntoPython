@@ -1,0 +1,8 @@
+1. If it is raining, bring an umbrella. If not, wear sunglasses.
+2. unlimited
+3. 
+if count > 10:
+  forward(100)
+else:
+  forward(50)
+4. 10 pixels
