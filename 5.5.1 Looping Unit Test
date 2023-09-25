@@ -1,0 +1,42 @@
+1. 
+for i in range(6):
+    print(i)
+2. 
+for i in range(3, 10, 2):
+    print(i)
+3. 12
+4. for i in range(0, 10):
+5. for i in range(5, 0, 1):
+6. 
+It’s still a nice day
+It’s still a nice day
+It’s still a nice day
+It’s still a nice day
+7. 
+while num < 12 and num > 3:
+    # do something with num
+8. 
+secret_num = 10
+
+while secret_num == 10:
+    print(secret_num)
+9. When you don’t know how many times something will need to repeat
+10. 
+      0
+      1
+      0
+      1
+11. 9
+12. -150
+13. 
+      0
+      1
+      2
+      4
+      5
+      6
+      7
+      8
+      9
+14. The program will break out of the loop as soon as the user enters the magic_number
+15. On linw 9
