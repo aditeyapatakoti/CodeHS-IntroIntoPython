@@ -1,0 +1,5 @@
+1.
+def print_hello():
+    print("hello")
+2.
+print_sum()
