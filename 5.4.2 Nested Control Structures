@@ -1,0 +1,12 @@
+1.
+      0
+      1
+      1
+      2
+2. 
+count = 10
+for i in range(3):
+    if count > 0:
+        print(i)
+else:
+    print(count)
