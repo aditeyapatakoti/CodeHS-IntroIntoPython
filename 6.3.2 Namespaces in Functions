@@ -1,0 +1,6 @@
+1. Global namespace
+2. 
+def subtract_nums():
+    y = 5
+    z = x - y
+    print(z)
