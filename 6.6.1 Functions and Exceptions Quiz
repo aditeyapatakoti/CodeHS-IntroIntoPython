@@ -1,0 +1,44 @@
+1. 
+def say_hi(first_name="John", last_name="Doe"):
+    print("hi " + first_name + " " + last_name)
+
+say_hi("Polly Pocket")
+2. 
+def balloon_choice(color):
+    print("I would like a " + color + " balloon.")
+
+balloon_choice("green")
+3. codecodecode
+4. hello Turtle
+5. <><><>
+6. 
+for i in range(6):
+    fn_a(i)
+7. 
+Original Point: 12, 14
+Midpoint from Origin: 6.0, 7.0
+Point: 16, 20
+8. 
+# computes the surface area of a rectangular prism
+def surface_area(length, width=10, height):
+    return 2*(length * width + width * height + height * length)
+9. 
+Welcome to CodeHS!
+Enter your username: kipp52
+That's not a valid username. Try again
+Enter your username: baseball45
+Welcome!
+10. 50
+11. To indicate that something has gone wrong, and the program does not know how to continue
+12. 
+Enter a positive number: 1.2
+That wasn't a number!
+Enter a positive number: -4
+The number must be positive!
+Enter a positive number: hi
+That wasn't a number!
+Enter a positive number: 5
+5
+13. 5
+14. print(get_single_digit() + get_single_digit())
+15. To handle exceptions gracefully and either handle the error or print out a useful error message.
