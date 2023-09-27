@@ -1,0 +1,5 @@
+1. def my_function(number):
+    return number*2
+2. 
+def my_function():
+    return 10
