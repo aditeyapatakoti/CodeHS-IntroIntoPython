@@ -1,0 +1,5 @@
+1.
+s = "apple"
+x = s.find("l")
+print(x)
+2. lower
