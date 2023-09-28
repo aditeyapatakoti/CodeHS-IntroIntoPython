@@ -1,0 +1,6 @@
+1. 
+my_string = "ABCDE"
+print(my_string[0])
+2. 
+my_string = "ABCDE"
+print(my_string[-1])
