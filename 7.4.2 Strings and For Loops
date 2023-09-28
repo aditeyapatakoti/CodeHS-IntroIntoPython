@@ -1,0 +1,5 @@
+1.
+my_string = "abcde"
+for letter in range(len(my_string)):
+    print(letter)
+2. 5
