@@ -1,0 +1,5 @@
+1. +
+2. print(sign[:6] + "Birth" + sign[6:])
+3. 
+my_string = "ABCDE"
+print(my_string[2:])
