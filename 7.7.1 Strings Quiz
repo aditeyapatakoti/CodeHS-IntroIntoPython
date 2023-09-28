@@ -1,0 +1,43 @@
+1. print(sentence[4:9])
+2. print(sentence[5:])
+3. print(word[-2])
+4. word[0] = "M"
+5. II, IV
+6. 
+      tt
+      hh
+      ee
+      
+      dd
+      oo
+      gg
+7. 
+if "the" in sentence:
+    print("Contains 'the'")
+8. 
+def alt_case(word):
+    res = ""
+    for i in range(len(word)):
+        if i % 2 == 1:
+            res = res + word[i].upper()
+        else:
+            res = res + word[i].lower()            
+    return res
+9. 7
+10. 0
+11. -1
+12. Returns the same sentence, but replaces every space with the letter char
+13. Checks to make sure the email address is valid by checking for ‘@’ in the address. Returns the address without any leading or trailing whitespace.
+14. Line 4
+15. The variable can be assigned a new value, but the string’s value cannot be modified.
+16. killer whale
+17. azbycxdwev
+18.
+def find_secret_word(message):
+    hidden_word = ""
+    for letter in message:
+        if letter != letter.lower():
+            hidden_word = hidden_word + letter
+    return hidden_word
+19. upper
+20.print(first_name[0] + first_name[-1] + last_name[0] + last_name[-1])
