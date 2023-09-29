@@ -1,0 +1,32 @@
+1. Tuple
+2. [48, 56, 64, 65, 60, 61, 62]
+3. 4
+4. 
+      B
+      o
+      n
+      d
+      0
+      0
+      7
+5. 
+for index in range(len(my_list)):
+    if index % 2 == 0:
+        print(my_list[index])
+6. 5, -10, 6
+7. 
+my_list = ["honey", "bread", "jelly", "plates"]
+
+for index in range(len(my_list)):
+    print(str(index+1) + ". " + my_list[index])
+8. 
+my_list = ['red', 'green', 'blue', 'orange']
+
+my_list.append('yellow')
+9. [1, 2, 3, 4, 5, 6, 7, 8]
+10. Tuple
+11. List
+12. ages[0] = 3
+13. banan
+14. 5
+15. My favorite animal is a penguin or chipmunk 
