@@ -1,0 +1,36 @@
+1. [10, 11]
+2. print(my_list[1][2])
+3. Dictionary
+4. 
+      12
+      3
+      5
+      45
+      7
+      8
+      1
+      2
+      3
+5. 
+board = []
+board.append([1, 2, 3])
+board.append([4, 5, 6])
+board.append([7, 8, 9])
+6. my_list =  [i*2 for i in range(6)]
+7. Storing multiple variables’ values by putting them in a collection, like a list or tuple
+8. Initializing multiple variables at a time using a collection of values
+9. 
+coffee = "kona"
+tea = "mango"
+smoothie = "raspberry"
+10. 
+red = "BLUE"
+blue = "GREEN"
+green = "RED"
+11. keys to values
+12. 
+oak
+daisy
+bindweed
+13. I only
+14. print(my_list[1:3])
