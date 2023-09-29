@@ -11,3 +11,5 @@ To find a specific assignment click on the `Go to File` button near the top of a
 If you find any issues with the code please let me know by creating an issue.
 
 [Click here to go to the issues page](https://github.com/aditeyapatakoti/CodeHS-IntroIntoPython/issues)
+
+TODO (for me): change the files with code in them to end with .py
