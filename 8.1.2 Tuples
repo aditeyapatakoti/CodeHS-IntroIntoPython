@@ -1,0 +1,2 @@
+1. Tuples use parentheses to access individual elements, rather than square brackets.
+2. x = (1, 2, 3)
