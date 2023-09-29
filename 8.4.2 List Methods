@@ -1,0 +1,5 @@
+1. my_list.sort()
+2. 
+my_list.sort()
+my_list.reverse()
+my_list.remove("bananas")
