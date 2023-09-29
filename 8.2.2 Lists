@@ -1,0 +1,4 @@
+1. my_list = [1, 2, 3, 4, 5]
+2. 
+my_string = "hello"
+str_as_list = list(my_string)
