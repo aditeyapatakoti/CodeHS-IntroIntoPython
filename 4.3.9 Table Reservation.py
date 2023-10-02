@@ -1,5 +1,6 @@
 user_name = input("Hello, what name is the reservation under? ")
-reservation_name = "Aditeya"
+#Change the reservation name from "." to your name (or any name)
+reservation_name = "."
 
 if user_name == reservation_name:
     print("Right this way!")
