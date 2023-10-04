@@ -1,10 +1,10 @@
 # CodeHS-IntroIntoPython
-This repository includes answers and code to every quiz and assignment needed in CodeHS's course called "Intro Into Python".
+This repository includes answers and code to every quiz and assignment needed in CodeHS's course called "Intro to Computer Science in Python 3".
 To find a specific assignment click on the `Go to File` button near the top of all of the files and then type in the assignment number.
 
-Example: 10.1.2 (this would be lead you to the assignment named "Guess the Word, Part 1.py"
+Example: 10.1.2 (this would lead you to the assignment named "Guess the Word, Part 1.py")
 
-# Format to the quiz answers
+# Quiz Answers Format
 1. `answer here`
 2. `answer here`
 3. `and so on...`
