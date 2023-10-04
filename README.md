@@ -3,7 +3,8 @@ This repository includes answers and code to every quiz and assignment needed in
 
 To find a specific assignment click on the `Go to File` button near the top of all of the files and then type in the assignment number.
 
-Example: 10.1.2 (this would lead you to the assignment named "Guess the Word, Part 1.py")
+Example: 10.1.2 (this will take you to the file named "Guess the Word, Part 1.py")
+
 
 # Quiz Answers Format
 1. `answer here`
