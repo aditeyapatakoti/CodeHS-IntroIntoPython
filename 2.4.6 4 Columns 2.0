@@ -1,0 +1,11 @@
+penup()
+backward (100)
+for i in range(3):
+    pendown()
+    left(90)
+    forward (400)
+    backward (600)
+    forward (200)
+    right(90)
+    penup()
+    forward (100)
