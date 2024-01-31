@@ -1,8 +1,10 @@
-secret_word = "eggplant"
+secret_word = "eggplants"
 dashes = "---------"
+# NOTE: Change the amount of dashes according to how many letters are in the variable
+# NOTE CONTINUED: secret word. Make sure to change both top and bottom.
 arr = ['-','-','-','-','-','-','-','-','-']
 guesses_left = 10
-
+# NOTE: You can change the number of guesses left according to the number above.
 def get_guess():
     while True:
         print(''.join(arr))
