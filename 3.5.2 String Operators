@@ -1,6 +1,6 @@
 1.
 x = 4
-y = "hi"
+y = 5
 print(x + y)
 2.
 var = "hello"
