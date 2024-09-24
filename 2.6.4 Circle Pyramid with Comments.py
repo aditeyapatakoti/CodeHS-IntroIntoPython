@@ -1,35 +1,27 @@
 """ 
-circle pyramids are cool
+circle pyramids are pretty cool
 """
-#this code will draw a pyramid of circles starting at 3 from the bottom
-#no circles will touch
-speed (0)
-circle(50)
+#Will draw a pyramid made of circles with three rows
+#Resets da code too make it as fast as possible
+speed(0)
 penup()
-right(90)
-forward(85)
-left(90)
-forward(50)
+#Creates da first circle for the first row of da circle pyramid and moves it in da first position
+setposition(0,-30)
 pendown()
 circle(50)
 penup()
-backward(100)
-pendown()
-circle(50)
-penup()
-forward(50)
-right(90)
-forward(85)
-left(90)
-forward (100)
-pendown()
-circle(50)
-penup()
-forward(65)
-penup()
-backward(165)
-pendown()
-circle(50)
-penup()
-backward(100)
-pendown()
+#Creates da second row of circles for da circle pyramid and uses a for loop
+setposition(-50,-115)
+for i in range(2):
+  pendown()
+  circle(50)
+  penup()
+  forward(100)
+#Creates da final row for da circle pyramid and also uses a for loop
+setposition(-100,-200)
+for i in range(3):
+  pendown()
+  circle(50)
+  penup()
+  forward(100)
+
